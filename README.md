@@ -30,4 +30,4 @@ Image Transformation:
 - Fourier Transformation
 - PCA (Principal Component Analysis) Transformation
 
-If you need further details on any of these techniques, feel free to ask!
+
